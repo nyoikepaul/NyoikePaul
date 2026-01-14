@@ -1,4 +1,4 @@
-# Paul Nyoike Kamau 👋
+# Paul Nyoike Kamau 
 
 Full-stack developer from Nairobi, Kenya 🇰🇪. Specializing in React, Tailwind CSS, APIs (Node/Express), servers, and PostgreSQL. Building efficient web apps, dashboards, and CRMs for businesses. Open to freelance gigs on Upwork!
 
