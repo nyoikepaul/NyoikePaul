@@ -1,76 +1,47 @@
-markdown
-
 # 👋 Hi, I'm Paul Nyoike Kamau
 
-**Full-Stack Developer** from Nairobi, Kenya 🇰🇪  
-Specializing in **React, Next.js, Tailwind CSS, Node.js/NestJS, and PostgreSQL/Prisma**. I build scalable, production-ready dashboards, CRMs, workflow engines, ERP customizations, and business automation tools (including M-Pesa/FinTech integrations).
+**Senior-focused Full-Stack Engineer | Enterprise & FinTech Specialist**
+Based in Nairobi, Kenya 🇰🇪 (EAT timezone — compatible with US/EU workflows)
 
-Open to freelance gigs on **Upwork** – let's turn your ideas into reality! 🚀
+I build scalable, production-ready systems including **ERP customizations, workflow engines, and FinTech integrations (M-Pesa)**. My focus is on transforming complex business requirements into type-safe, high-performance code.
 
-[![GitHub followers](https://img.shields.io/github/followers/nyoikepaul?style=social)](https://github.com/nyoikepaul)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6BBE4B?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a905cc4c1df645ac)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyoikepaul2@gmail.com)
 [![X (Twitter)](https://img.shields.io/twitter/follow/paulNyoike2?style=social)](https://x.com/paulNyoike2)
-[![Upwork](https://img.shields.io/badge/Upwork-Profile-6BBE4B?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01a905cc4c1df645ac)
 
-- **Location**: Nairobi, Kenya (EAT timezone – excellent overlap with US/EU)
-- **Email**: [nyoikepaul2@gmail.com](mailto:nyoikepaul2@gmail.com)
-- **X/Twitter**: [@paulNyoike2](https://x.com/paulNyoike2)
-- **LinkedIn**: [Add your link here](https://linkedin.com) <!-- Update if you have one -->
+---
 
-### 🛠 Tech Stack & Skills
+### 🛠 Technical Stack & Skills
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, NestJS, Express, PostgreSQL, Prisma |
+| **Specialized** | ERP Development, M-Pesa/FinTech API Integration, Workflow Automation |
+| **Tools** | Git/GitHub, Docker, TurboRepo, Vercel, Railway |
 
-```text
-Frontend      → React, Next.js, Tailwind CSS, TypeScript
-Backend       → Node.js, NestJS, Express, PostgreSQL, Prisma
-Tools & Other → Git, Docker, Vercel, Railway, TurboRepo, Odoo/ERP, M-Pesa Integrations
+---
 
-React
-Next.js
-Tailwind CSS
-NestJS
-Node.js
-PostgreSQL
-TypeScript
-Prisma Featured ProjectsProject
-Description
-Tech Stack
-Live Demo
-Repo
-DigitalFirst Solutions
-Professional portfolio & project hub with modern full-stack features and responsive design
-React, Tailwind CSS, Vercel
- Live Demo
-Repo
-Nexus Flow
-Enterprise-grade workflow engine with real-time tracking, task automation, and scalable backend
-Next.js, NestJS, Prisma, PostgreSQL, TurboRepo
- Live Demo <!-- Deploy on Vercel/Railway -->
-Repo
-Enterprise ProSite
-High-performance corporate site with secure portals and business automation
-React, PocketBase/Railway
- Live Demo <!-- Deploy -->
-Repo
-Custom Logistics OS
-Modular supply chain system customized for Kenyan/African markets
-JavaScript, Node.js
- Live Demo <!-- Deploy -->
-Repo
+### 🚀 Featured Projects
+| Project | Description | Tech Stack | Repo |
+| :--- | :--- | :--- | :--- |
+| **Nexus Flow** | Enterprise-grade workflow engine for scalable task automation. | TypeScript, Node.js | [Link](https://github.com/nyoikepaul/nexus-flow) |
+| **DigitalFirst Solutions** | Full-stack business hub and professional portfolio showcase. | React, Tailwind, Vercel | [Link](https://github.com/nyoikepaul/digitalFirst-solutions) |
+| **Enterprise ProSite** | High-performance corporate site optimized for business conversion. | React, HTML/CSS | [Link](https://github.com/nyoikepaul/enterprise-prosite) |
 
-Pro Tip: Live demos are huge for clients – deploy today and watch proposals improve!
- Project Highlights<!-- Replace with your real screenshots/GIFs – upload to this repo's assets or Imgur -->
-DigitalFirst Solutions
-Nexus Flow Dashboard
-Enterprise ProSite GitHub Stats<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyoikepaul&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyoikepaul&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="50%"/>
+---
 
- About MePassionate about solving real business challenges with clean, efficient code. Experienced in BridgeERP (Odoo-based), FinTech (M-Pesa), and full-stack development. I deliver user-focused, scalable solutions that boost growth and automation.Currently freelancing on Upwork – expert in:Custom dashboards & CRMs
-Workflow/automation systems
-Secure PostgreSQL backends
-Modern React/Next.js frontends
+### 📊 Engineering Impact
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyoikepaul&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyoikepaul&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%"/>
+</p>
 
-Ready to collaborate? Message me on Upwork or here! ConnectContributions welcome – fork and PR!
-Profile feedback? Open an issue.
+---
 
- LicenseMIT License
-```
+### 💼 Work With Me
+I am currently **Available for Hire** on Upwork. I specialize in:
+* **Custom Dashboards & CRMs**: Building data-rich interfaces for business intelligence.
+* **Workflow Automation**: Reducing manual overhead with robust backend engines.
+* **FinTech Integrations**: Secure payment processing and API management.
 
+**[Click here to invite me to a job on Upwork!](https://www.upwork.com/freelancers/~01a905cc4c1df645ac)**
