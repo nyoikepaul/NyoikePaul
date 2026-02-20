@@ -12,7 +12,7 @@ I build scalable, production-ready systems including **ERP customizations, workf
 ---
 
 
-### 🚀 Core Tech Stack
+###  Core Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -29,7 +29,7 @@ I build scalable, production-ready systems including **ERP customizations, workf
 ---
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Preview | Description |
 |--------|-------------|
@@ -40,11 +40,15 @@ I build scalable, production-ready systems including **ERP customizations, workf
 
 > 👉 [View all repositories](https://github.com/nyoikepaul?tab=repositories)
 
-### 📊 GitHub Stats
+---
+
+### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=nyoikepaul&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyoikepaul&theme=dark&hide_border=true" alt="Streak" />
 
-### 📊 Engineering Impact
+---
+
+###  Engineering Impact
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyoikepaul&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyoikepaul&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%"/>
@@ -52,7 +56,7 @@ I build scalable, production-ready systems including **ERP customizations, workf
 
 ---
 
-### 💼 Work With Me
+### Work With Me
 I am currently **Available for Hire** on Upwork. I specialize in:
 * **Custom Dashboards & CRMs**: Building data-rich interfaces for business intelligence.
 * **Workflow Automation**: Reducing manual overhead with robust backend engines.
