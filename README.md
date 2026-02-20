@@ -48,14 +48,6 @@ I build scalable, production-ready systems including **ERP customizations, workf
 
 ---
 
-###  Engineering Impact
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyoikepaul&theme=dark&hide_border=true" alt="GitHub Streak" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyoikepaul&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
----
-
 ### Work With Me
 I am currently **Available for Hire** on Upwork. I specialize in:
 * **Custom Dashboards & CRMs**: Building data-rich interfaces for business intelligence.
