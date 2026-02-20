@@ -8,7 +8,7 @@ Based in Nairobi, Kenya 🇰🇪 (EAT timezone — compatible with US/EU workflo
 I build scalable, production-ready systems including **ERP customizations, workflow engines, and FinTech integrations (M-Pesa)**. My focus is on transforming complex business requirements into type-safe, high-performance code.
 
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6BBE4B?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a905cc4c1df645ac)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyoikepaul2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![X (Twitter)](https://img.shields.io/twitter/follow/paulNyoike2?style=social)](https://x.com/paulNyoike2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-kamau-714a1a225/) 
 
