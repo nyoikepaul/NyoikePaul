@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Paul Kamau Nyoike
+#  Hi, I'm Paul Kamau Nyoike
 
 **Senior-focused Full-Stack Engineer | Enterprise & FinTech Specialist**
 Based in Nairobi, Kenya 🇰🇪 (EAT timezone — compatible with US/EU workflows)
@@ -10,8 +10,6 @@ I build scalable, production-ready systems including **ERP customizations, workf
 [![X (Twitter)](https://img.shields.io/twitter/follow/paulNyoike2?style=social)](https://x.com/paulNyoike2)
 
 ---
-
-### 🛠 Technical Stack & Skills
 
 
 ### 🚀 Core Tech Stack
