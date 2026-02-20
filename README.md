@@ -12,12 +12,21 @@ I build scalable, production-ready systems including **ERP customizations, workf
 ---
 
 ### 🛠 Technical Stack & Skills
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, NestJS, Express, PostgreSQL, Prisma |
-| **Specialized** | ERP Development, M-Pesa/FinTech API Integration, Workflow Automation |
-| **Tools** | Git/GitHub, Docker, TurboRepo, Vercel, Railway |
+
+
+### 🚀 Core Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![MedusaJS](https://img.shields.io/badge/MedusaJS-000000?style=for-the-badge&logo=medusajs&logoColor=white) <!-- Optional extra if you want -->
+
 
 ---
 
